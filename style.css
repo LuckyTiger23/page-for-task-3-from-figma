@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "monserrat";
+}
+
+body{
+    background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.2));
+    background: url("https://odinkeane.github.io/skillfactory-task1/back-to-the-future.jpg");
+    padding: 100px;
+    color: white;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+
+h2{
+    color: rgb(60, 60, 200);
+    width: 300px;
+    margin: 20px 0;
+    color: rgb(60,60,200);
+    font-size: 18px;
+    font-weight: 900;
+}
+
+button{
+    all: unset;
+    border: 1px solid white;
+    padding: 8px 20px;
+}
+
+
+
+
+
